@@ -22,3 +22,30 @@ This site will be composed of several smaller components. <ins>Please see attach
 4. As an art collector, I desire website where I can find artists that can interpret my ideas and create pieces for my collection."
 5. "As an independent game developer, I need a site to find talended artists to hire to create art for my game idea."
 
+## Use-Cases
+1. Small Artist
+   - System: An image sharing website.
+   - Actor: A small artist who wants to share their hobby.
+   - Goal: To share their art with people who will appreciate it and provide support.
+   - Scenario: The user navigates to the site or app and decides to create an  account. They navigate to the Register page and enter their information, which is then stored in the database. After they click "Register" at the bottom of the form, they are taken to their home page. The user can then navigate to the page to add a new post, and begin sharing their work.
+2. Tattoo Apprentice
+   - System: An image sharing website.
+   - Actor: A tattoo apprentice.
+   - Goal: To share their work and advertise to get clients for practice and to expand their portfolio.
+   - Scenario: The user navigates to the site and decides to create an account. Once they navigate to the registration page and enter their account information, they will be directed to their home page and can then post their art with a caption or message advertising their work. They can include their contact information so that prospective clients who view their work can then message them and schedule appointments. 
+3. Disabled Artist
+    - System: An image sharing website
+    - Actor: A disabled artist.
+    - Goal: To advertise their work for sale to a community who will be interested in purchasing it.
+    - Scenario: The artist and crafter cannot perform regular physical job duties, and wishes to make a living out of their hobbies of making art and crafting handmade items. They discover the website/application and decide to sign up for an account. After registering, the artist can share their work through posts and advertise them. They can add captions to the images, giving information about the products such as the materials they are made out of, the quantity for sale, and the price. Customers who are interested can comment or message the artist.
+4. Art Collector
+   - System: An image sharing website.
+   - Actor: An art collector.
+   - Goal: To find original art pieces for purchase.
+   - Scenario: A collector registers for an account on the site, and is taken to the home page where they will be shown a feed of suggested posts. They can also search for users and for tags on art that they are interested in. After finding a post that they like and wish to purchase, they can then leave a comment on the post or message the artist directly and inquire about a purchase.
+5. Independent Game Developer
+   - System: An image sharing website.
+   - Actor An independent game developer.
+   - Goal: To find independent artists with the skills to create game art in the style the developer envisions for their game.
+   - Scenario: An indie game developer with ample experience in coding but none in art decides to register for an account with the image sharing site. After registering and being brought to their home page, they can do a couple of things. First, they can share an image of their game's code or the title, and advertise that they are looking to hire independent artists. Artists who are interested in the job can comment or message the developer. Secondly, the developer can also find artists in their feed or by search that match the style they want, and can either comment or message the artists to offer them the gig.
+
