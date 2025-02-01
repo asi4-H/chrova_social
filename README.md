@@ -8,6 +8,6 @@ This site will be composed of several smaller components. <ins>Please see attach
 - App UI
 - API Gateway
 - Internal database for storing the user account's posts
-
+ 
 
 
