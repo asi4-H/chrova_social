@@ -9,7 +9,7 @@ This site will be composed of several smaller components. <ins>Please see attach
 - API Gateway
 - Internal database for storing the user account's post
 
-![Architecture Diagram](Chrova_Social_Diagram.drawio.png)
+![Architecture Diagram](images/Chrova_Social_Diagram.drawio.png)
 
-##
+## Wireframe Sketches
 
