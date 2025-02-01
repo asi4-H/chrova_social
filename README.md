@@ -7,7 +7,9 @@ This site will be composed of several smaller components. <ins>Please see attach
 - Web server for hosting
 - App UI
 - API Gateway
-- Internal database for storing the user account's posts
- 
+- Internal database for storing the user account's post
 
+![Architecture Diagram](Chrova_Social_Diagram.drawio.png)
+
+##
 
