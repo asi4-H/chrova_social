@@ -12,4 +12,5 @@ This site will be composed of several smaller components. <ins>Please see attach
 ![Architecture Diagram](images/Chrova_Social_Diagram.drawio.png)
 
 ## Wireframe Sketches
-
+  Attached below are the wireframe sketches for each of the main pages and functions for the application. These will change slightly with window resizing and mobile adaptation, but the layout will remain relatively the same.
+  ![Wireframe sketches of general layout of each page](images/wireframes.jpeg)
