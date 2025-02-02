@@ -48,4 +48,5 @@ This site will be composed of several smaller components. <ins>Please see attach
    - Actor An independent game developer.
    - Goal: To find independent artists with the skills to create game art in the style the developer envisions for their game.
    - Scenario: An indie game developer with ample experience in coding but none in art decides to register for an account with the image sharing site. After registering and being brought to their home page, they can do a couple of things. First, they can share an image of their game's code or the title, and advertise that they are looking to hire independent artists. Artists who are interested in the job can comment or message the developer. Secondly, the developer can also find artists in their feed or by search that match the style they want, and can either comment or message the artists to offer them the gig.
-
+## UML Diagram
+![UML diagram](images/UML.drawio.jpeg)
