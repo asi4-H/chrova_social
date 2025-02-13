@@ -50,3 +50,14 @@ This site will be composed of several smaller components. <ins>Please see attach
    - Scenario: An indie game developer with ample experience in coding but none in art decides to register for an account with the image sharing site. After registering and being brought to their home page, they can do a couple of things. First, they can share an image of their game's code or the title, and advertise that they are looking to hire independent artists. Artists who are interested in the job can comment or message the developer. Secondly, the developer can also find artists in their feed or by search that match the style they want, and can either comment or message the artists to offer them the gig.
 ## UML Diagram
 ![UML diagram](images/UML.drawio.jpeg)
+
+## Table of Requirements
+
+| ID | Requirement |
+| -- | ----------- |
+| 1  | The software shall allow the user to log in with their existing username/password, and direct to the home page. |
+| 2  | If the credentials do not exist, the software shall display an error message and direct to the register page. |
+| 3  | The software shall connect to Google JavaScript API to authenticate the credentials. |
+| 4  | The software shall allow the user to upload images and share them the site. |
+| 5  | The software shall allow users to add keywords to posts and search posts based on them. |
+
