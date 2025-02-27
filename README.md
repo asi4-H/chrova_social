@@ -61,3 +61,7 @@ This site will be composed of several smaller components. <ins>Please see attach
 | 4  | The software shall allow the user to upload images and share them the site. |
 | 5  | The software shall allow users to add keywords to posts and search posts based on them. |
 
+## Entity Relationship Diagram
+![Entity Relationship Diagram](images/ERD.png)
+
+
