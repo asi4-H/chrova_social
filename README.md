@@ -64,4 +64,6 @@ This site will be composed of several smaller components. <ins>Please see attach
 ## Entity Relationship Diagram
 ![Entity Relationship Diagram](images/ERD.png)
 
+## UML Class Diagram
+![UML Class Diagram](images/UML_Class.png)
 
