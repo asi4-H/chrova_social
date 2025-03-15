@@ -7,4 +7,5 @@ This is a basic HTML/CSS mockup of the log in page. This will be the index.html 
 
 # New User Registration
 This is the new user registration page. New users will navigate here from the log in page if they do not already have an account to log in to, or if they wish to make an additional account. The registration page will be where the users input all of their information such as first and last name, e-mail address, preferred gender, username/password combination, and profile picture.
-![Registration Screenshot 1(../images/register1.png)]
+![Registration Screenshot 1](../images/register1.png)
+![Registration Screenshot 2](../images/register2.png)
