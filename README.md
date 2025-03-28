@@ -67,3 +67,6 @@ This site will be composed of several smaller components. <ins>Please see attach
 ## UML Class Diagram
 ![UML Class Diagram](images/UML_Class.png)
 
+## Data Access Layer
+![API Code](images/API_screenshot.png)
+![Http Output](images/http_screenshot.png)
